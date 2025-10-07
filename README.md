@@ -56,7 +56,7 @@ The RL pipeline is designed for **offline learning**, where the agent learns opt
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/rl-agent-assist-routing.git
+git clone https://github.com/ShraddhaGupte97/rl-contact-routing.git
 cd rl-agent-assist-routing
 ```
 
