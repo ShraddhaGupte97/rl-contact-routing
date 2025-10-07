@@ -88,7 +88,7 @@ Average Reward (test set): 0.164 | Routing Accuracy: 93.00%
 ---
 
 ## 📁 Project Structure
-
+```
 rl-agent-assist-routing/
 │
 ├── data/
@@ -101,7 +101,7 @@ rl-agent-assist-routing/
 │
 ├── requirements.txt # dependencies
 └── README.md
-
+```
 ---
 
 ##🧭 Next Steps
